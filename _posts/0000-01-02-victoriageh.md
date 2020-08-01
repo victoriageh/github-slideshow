@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome tto our second slide!"
+title: "Welcome to our second slide!"
 ---
-:zany_face:
+OOMF
 Use the left arrow to go back!
