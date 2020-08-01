@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome tto our second slide!"
 ---
-Your text 
+:zany_face:
 Use the left arrow to go back!
